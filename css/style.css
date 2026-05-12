@@ -97,12 +97,6 @@
   }
   
   #body div#content .content{
-    float:left; 
-	width:640px;
-	margin-right:20px;
-	background-image:none;
-	height:auto;
-	overflow:hidden;
   }
   
   #body #content .content h2{
