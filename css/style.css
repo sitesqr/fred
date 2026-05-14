@@ -75,15 +75,15 @@
   /**------------- Start of body style ----------------**/
   
   #body div.banner{
-     background:url("../images/dog3.png");
-	 background-position:center;
-	 background-repeat:no-repeat;
-	 height:606px;
-	 background-color:white;
-	 margin-bottom: 40px;
-	 margin: 40px;
-	   border: 2px solid rgb(255, 255, 255);
-  border-radius: 200px;
+    background:url("../images/dog3.png");
+	background-position:center;
+	background-repeat:no-repeat;
+	height:606px;
+	background-color:white;
+	margin-bottom: 40px;
+	margin: 40px;
+	border: 2px solid rgb(255, 255, 255);
+  	border-radius: 200px;
   }
   
   
